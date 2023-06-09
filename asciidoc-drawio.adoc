@@ -1,0 +1,306 @@
+## Asciidoc and Drawio
+
+image::https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg[Tux,20,20]
+
+
+#### VSCode Plugins
+* https://marketplace.visualstudio.com/items?itemName=asciidoctor.asciidoctor-vscode
+* https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio
+
+
+#### asciidoc reference
+* https://asciidoctor.org/docs/user-manual
+* http://asciidoc.org/plugins.html
+* https://asciidoctor.org/docs/migrating-from-msword/
+* https://en.wikipedia.org/wiki/Comparison_of_documentation_generators
+
+#### drawio reference
+* https://github.com/philip-gai/github-drawio-demo  
+* https://github.com/jgraph/drawio
+* https://markvis.js.org  
+* https://jgraph.github.io/drawio-github  
+* https://diagrams.github.io  
+
+image::https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg[Tux,25,25]
+
+
+
+== Asciidoc Examples
+Reference:  https://asciidoctor.org/docs/user-manual/#tables
+
+
+### Striped Table
+
+[cols=3*, stripes=even]
+|===
+| A1
+| B1
+| C1
+
+| A2
+| B2
+| C2
+
+| A3
+| B3
+| C3
+|===
+
+
+### Nested Table
+
+[cols="1,2a"]
+|===
+| Col 1 | Col 2
+
+| Cell 1.1
+| Cell 1.2
+
+| Cell 2.1
+| Cell 2.2
+
+[cols="2,1"]
+!===
+! Col1 ! Col2
+
+! C11
+! C12
+
+!===
+
+|===
+
+
+
+### Header Row: Defined
+
+[cols=2*,options="header"]
+|===
+|Name of Column 1
+|Name of Column 2
+
+|Cell in column 1, row 1
+|Cell in column 2, row 1
+
+|Cell in column 1, row 2
+|Cell in column 2, row 2
+|===
+
+
+### Header Row: Implicit
+
+|===
+|Name of Column 1 |Name of Column 2
+
+|Cell in column 1, row 1
+|Cell in column 2, row 1
+
+|Cell in column 1, row 2
+|Cell in column 2, row 2
+|===
+
+### Table Width: Constrained to 75%
+
+[width=75%]
+|===
+|Name of Column 1 |Name of Column 2 |Name of Column 3
+
+|Cell in column 1, row 1
+|Cell in column 2, row 1
+|Cell in column 3, row 1
+
+|Cell in column 1, row 2
+|Cell in column 2, row 2
+|Cell in column 3, row 2
+|===
+
+
+### Table Width: Auto
+
+[%autowidth]
+|===
+|Name of Column 1 |Name of Column 2 |Name of Column 3
+
+|Cell in column 1, row 1
+|Cell in column 2, row 1
+|Cell in column 3, row 1
+
+|Cell in column 1, row 2
+|Cell in column 2, row 2
+|Cell in column 3, row 2
+|===
+
+
+### Table Width:  Full-width, Auto
+
+[%autowidth.stretch]
+|===
+|Name of Column 1 |Name of Column 2 |Name of Column 3
+
+|Cell in column 1, row 1
+|Cell in column 2, row 1
+|Cell in column 3, row 1
+
+|Cell in column 1, row 2
+|Cell in column 2, row 2
+|Cell in column 3, row 2
+|===
+
+
+Table Frame:  Top and Bottom
+
+[frame=topbot]
+|===
+|Name of Column 1 |Name of Column 2 |Name of Column 3
+
+|Cell in column 1, row 1
+|Cell in column 2, row 1
+|Cell in column 3, row 1
+
+|Cell in column 1, row 2
+|Cell in column 2, row 2
+|Cell in column 3, row 2
+|===
+
+
+### Table Frame:  Sides
+
+[frame=sides]
+|===
+|Name of Column 1 |Name of Column 2 |Name of Column 3
+
+|Cell in column 1, row 1
+|Cell in column 2, row 1
+|Cell in column 3, row 1
+
+|Cell in column 1, row 2
+|Cell in column 2, row 2
+|Cell in column 3, row 2
+|===
+
+### Table Frame: None
+
+[frame=none]
+|===
+|Name of Column 1 |Name of Column 2 |Name of Column 3
+
+|Cell in column 1, row 1
+|Cell in column 2, row 1
+|Cell in column 3, row 1
+
+|Cell in column 1, row 2
+|Cell in column 2, row 2
+|Cell in column 3, row 2
+|===
+
+
+### Table Caption  (part of TOC autogeneration)
+
+[caption="Table A. "]
+.A formal table
+|===
+|Name of Column 1 |Name of Column 2
+
+|Cell in column 1, row 1
+|Cell in column 2, row 1
+
+|Cell in column 1, row 2
+|Cell in column 2, row 2
+|===
+
+### Table: Delimiter-Separated Values
+
+#### CSV
+[%header,format=csv]
+|===
+Artist,Track,Genre
+Baauer,Harlem Shake,Hip Hop
+The Lumineers,Ho Hey,Folk Rock
+|===
+
+#### TSV
+[%header,format=dsv]
+|===
+Artist:Track:Genre
+Robyn:Indestructable:Dance
+The Piano Guys:Code Name Vivaldi:Classical
+|===
+
+#### DSV
+[%header,format=dsv]
+|===
+Artist:Track:Genre
+Robyn:Indestructable:Dance
+The Piano Guys:Code Name Vivaldi:Classical
+|===
+
+
+### Table:  Shorthand Notation for Data Tables
+
+#### CSV
+,===
+Artist,Track,Genre
+
+Baauer,Harlem Shake,Hip Hop
+,===
+
+
+#### DSV
+:===
+Artist:Track:Genre
+
+Robyn:Indestructable:Dance
+:===
+
+
+
+
+## Styling Columns and Cells in Tables
+We can use either the cols attribute to define a style for a whole column or specify per cell the style, using the following styles:
+
+* e: emphasized
+* a: Asciidoc markup
+* m: monospace
+* h: header style, all column values are styled as header
+* s: strong
+* l: literal, text is shown in monospace font and line breaks are kept
+* d: default
+* v: verse, keeps line breaks
+
+
+
+.Table with column style e,a,m
+[cols="e,a,m"]
+|===
+| Emphasized (e) | Asciidoc (a) | Monospaced (m)
+ 
+| Asciidoctor
+| NOTE: *Awesome* way to write documentation
+| It is just code
+ 
+|===
+ 
+.Table with column style h,s,l
+[cols="h,s,l"]
+|===
+| Header (h) | Strong (s) | Literal (l)
+ 
+| Asciidoctor
+| Awesome way to write documentation
+| It is
+just code
+ 
+|===
+ 
+ 
+.Table with column style d,v
+[cols="d,v"]
+|===
+| Default (d) | Verse (v)
+ 
+| Asciidoctor
+| Awesome way
+to write
+documentation
+ 
+|===

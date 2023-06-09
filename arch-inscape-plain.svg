@@ -1,0 +1,1236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="arch-inscape-plain.svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm">
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       id="perspective1140"
+       inkscape:persp3d-origin="85.434927 : 275.21989 : 1"
+       inkscape:vp_z="154.88332 : 296.45695 : 1"
+       inkscape:vp_y="0 : 431.27392 : 0"
+       inkscape:vp_x="15.472032 : 296.56795 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:snap-page="true"
+     inkscape:snap-grids="false"
+     inkscape:window-maximized="0"
+     inkscape:window-y="538"
+     inkscape:window-x="770"
+     inkscape:window-height="1176"
+     inkscape:window-width="1252"
+     inkscape:snap-global="true"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="g194"
+     inkscape:document-units="mm"
+     inkscape:cy="462.43959"
+     inkscape:cx="316.61119"
+     inkscape:zoom="1.0279635"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <circle
+       r="0.099906191"
+       cy="-0.75595242"
+       cx="-163.28572"
+       style="fill:#000000;stroke:#000000;stroke-width:0.264583"
+       id="path10" />
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,1.6735334,54.468437)"
+       id="g194">
+      <path
+         id="path14"
+         pointer-events="all"
+         stroke-miterlimit="10"
+         stroke-width="1.5"
+         stroke="#e6e6e6"
+         fill="#0066cc"
+         d="m 131,140 h 247 l 10,10 V 414 H 141 l -10,-10 z" />
+      <path
+         id="path16"
+         pointer-events="all"
+         stroke="none"
+         fill="#000000"
+         fill-opacity="0.05"
+         d="m 131,140 h 247 l 10,10 H 141 Z" />
+      <path
+         id="path18"
+         pointer-events="all"
+         stroke="none"
+         fill="#000000"
+         fill-opacity="0.1"
+         d="m 131,140 10,10 v 264 l -10,-10 z" />
+      <path
+         id="path20"
+         pointer-events="all"
+         stroke-miterlimit="10"
+         stroke-width="1.5"
+         stroke="#e6e6e6"
+         fill="none"
+         d="M 141,414 V 150 l -10,-10 m 10,10 h 247" />
+      <rect
+         id="rect22"
+         pointer-events="none"
+         stroke="none"
+         fill="#0066cc"
+         height="92.5"
+         width="246"
+         y="215"
+         x="141" />
+      <path
+         id="path24"
+         pointer-events="none"
+         stroke-miterlimit="10"
+         stroke-linecap="square"
+         stroke="#e6e6e6"
+         fill="none"
+         d="m 141,215 h 246 v 92.5 H 141 V 215" />
+      <path
+         id="path26"
+         pointer-events="none"
+         stroke-miterlimit="10"
+         stroke="#e6e6e6"
+         fill="none"
+         d="m 158,215 v 93" />
+      <path
+         id="path28"
+         pointer-events="none"
+         stroke-miterlimit="10"
+         stroke="#e6e6e6"
+         fill="none"
+         d="m 173,215 v 93" />
+      <path
+         id="path30"
+         pointer-events="none"
+         stroke-miterlimit="10"
+         stroke="#e6e6e6"
+         fill="none"
+         d="m 190,215 v 93" />
+      <path
+         id="path32"
+         pointer-events="none"
+         stroke-miterlimit="10"
+         stroke="#e6e6e6"
+         fill="none"
+         d="m 207,215 v 93" />
+      <path
+         id="path34"
+         pointer-events="none"
+         stroke-miterlimit="10"
+         stroke="#e6e6e6"
+         fill="none"
+         d="m 223,215 v 93" />
+      <path
+         id="path36"
+         pointer-events="none"
+         stroke-miterlimit="10"
+         stroke="#e6e6e6"
+         fill="none"
+         d="m 238,215 v 93" />
+      <path
+         id="path38"
+         pointer-events="none"
+         stroke-miterlimit="10"
+         stroke="#e6e6e6"
+         fill="none"
+         d="m 254,215 v 93" />
+      <path
+         id="path40"
+         pointer-events="none"
+         stroke-miterlimit="10"
+         stroke="#e6e6e6"
+         fill="none"
+         d="m 271,215 v 93" />
+      <path
+         id="path42"
+         pointer-events="none"
+         stroke-miterlimit="10"
+         stroke="#e6e6e6"
+         fill="none"
+         d="m 288,215 v 93" />
+      <path
+         id="path44"
+         pointer-events="none"
+         stroke-miterlimit="10"
+         stroke="#e6e6e6"
+         fill="none"
+         d="m 303,215 v 93" />
+      <path
+         id="path46"
+         pointer-events="none"
+         stroke-miterlimit="10"
+         stroke="#e6e6e6"
+         fill="none"
+         d="m 319,215 v 93" />
+      <path
+         id="path48"
+         pointer-events="none"
+         stroke-miterlimit="10"
+         stroke="#e6e6e6"
+         fill="none"
+         d="m 337,215 v 93" />
+      <path
+         id="path50"
+         pointer-events="none"
+         stroke-miterlimit="10"
+         stroke="#e6e6e6"
+         fill="none"
+         d="m 354,215 v 93" />
+      <path
+         id="path52"
+         pointer-events="none"
+         stroke-miterlimit="10"
+         stroke="#e6e6e6"
+         fill="none"
+         d="m 370,215 v 93" />
+      <path
+         id="path54"
+         pointer-events="none"
+         stroke-miterlimit="10"
+         stroke-linecap="square"
+         stroke-width="0.5"
+         stroke="#e6e6e6"
+         fill="none"
+         d="m 141,215 m 17,0 m 0,93 m -17,0" />
+      <path
+         id="path56"
+         pointer-events="none"
+         stroke-miterlimit="10"
+         stroke-linecap="square"
+         stroke-width="0.5"
+         stroke="#e6e6e6"
+         fill="none"
+         d="m 158,215 m 15,0 m 0,93 m -15,0" />
+      <path
+         id="path58"
+         pointer-events="none"
+         stroke-miterlimit="10"
+         stroke-linecap="square"
+         stroke-width="0.5"
+         stroke="#e6e6e6"
+         fill="none"
+         d="m 173,215 m 17,0 m 0,93 m -17,0" />
+      <path
+         id="path60"
+         pointer-events="none"
+         stroke-miterlimit="10"
+         stroke-linecap="square"
+         stroke-width="0.5"
+         stroke="#e6e6e6"
+         fill="none"
+         d="m 190,215 m 17,0 m 0,93 m -17,0" />
+      <path
+         id="path62"
+         pointer-events="none"
+         stroke-miterlimit="10"
+         stroke-linecap="square"
+         stroke-width="0.5"
+         stroke="#e6e6e6"
+         fill="none"
+         d="m 207,215 m 16,0 m 0,93 m -16,0" />
+      <path
+         id="path64"
+         pointer-events="none"
+         stroke-miterlimit="10"
+         stroke-linecap="square"
+         stroke-width="0.5"
+         stroke="#e6e6e6"
+         fill="none"
+         d="m 223,215 m 15,0 m 0,93 m -15,0" />
+      <path
+         id="path66"
+         pointer-events="none"
+         stroke-miterlimit="10"
+         stroke-linecap="square"
+         stroke-width="0.5"
+         stroke="#e6e6e6"
+         fill="none"
+         d="m 238,215 m 16,0 m 0,93 m -16,0" />
+      <path
+         id="path68"
+         pointer-events="none"
+         stroke-miterlimit="10"
+         stroke-linecap="square"
+         stroke-width="0.5"
+         stroke="#e6e6e6"
+         fill="none"
+         d="m 254,215 m 17,0 m 0,93 m -17,0" />
+      <path
+         id="path70"
+         pointer-events="none"
+         stroke-miterlimit="10"
+         stroke-linecap="square"
+         stroke-width="0.5"
+         stroke="#e6e6e6"
+         fill="none"
+         d="m 271,215 m 17,0 m 0,93 m -17,0" />
+      <path
+         id="path72"
+         pointer-events="none"
+         stroke-miterlimit="10"
+         stroke-linecap="square"
+         stroke-width="0.5"
+         stroke="#e6e6e6"
+         fill="none"
+         d="m 288,215 m 15,0 m 0,93 m -15,0" />
+      <path
+         id="path74"
+         pointer-events="none"
+         stroke-miterlimit="10"
+         stroke-linecap="square"
+         stroke-width="0.5"
+         stroke="#e6e6e6"
+         fill="none"
+         d="m 303,215 m 16,0 m 0,93 m -16,0" />
+      <path
+         id="path76"
+         pointer-events="none"
+         stroke-miterlimit="10"
+         stroke-linecap="square"
+         stroke-width="0.5"
+         stroke="#e6e6e6"
+         fill="none"
+         d="m 319,215 m 18,0 m 0,93 m -18,0" />
+      <path
+         id="path78"
+         pointer-events="none"
+         stroke-miterlimit="10"
+         stroke-linecap="square"
+         stroke-width="0.5"
+         stroke="#e6e6e6"
+         fill="none"
+         d="m 337,215 m 17,0 m 0,93 m -17,0" />
+      <path
+         id="path80"
+         pointer-events="none"
+         stroke-miterlimit="10"
+         stroke-linecap="square"
+         stroke-width="0.5"
+         stroke="#e6e6e6"
+         fill="none"
+         d="m 354,215 m 16,0 m 0,93 m -16,0" />
+      <path
+         id="path82"
+         pointer-events="none"
+         stroke-miterlimit="10"
+         stroke-linecap="square"
+         stroke-width="0.5"
+         stroke="#e6e6e6"
+         fill="none"
+         d="m 370,215 m 17,0 m 0,93 m -17,0" />
+      <rect
+         id="rect84"
+         pointer-events="none"
+         stroke="none"
+         fill="#e6e6e6"
+         ry="6.52"
+         rx="6.52"
+         height="43.5"
+         width="181"
+         y="43"
+         x="173" />
+      <rect
+         id="rect86"
+         pointer-events="none"
+         stroke="#e6e6e6"
+         fill="#0066cc"
+         height="76"
+         width="247"
+         y="337"
+         x="141" />
+      <g
+         id="g92"
+         transform="translate(-0.5,-0.5)">
+        <switch
+           id="switch90">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="101%"
+             width="101%"
+             pointer-events="none">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 245px; height: 1px; padding-top: 375px; margin-left: 142px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0px; text-align: center;"
+                 data-drawio-colors="color: #ffffff; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: none; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                Database
+                            </xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             id="text88"
+             font-weight="bold"
+             text-anchor="middle"
+             font-size="12px"
+             font-family="Helvetica"
+             fill="#ffffff"
+             y="379"
+             x="265">Database</text>
+        </switch>
+      </g>
+      <rect
+         id="rect94"
+         pointer-events="none"
+         stroke="#e6e6e6"
+         fill="#0066cc"
+         height="30"
+         width="246"
+         y="307"
+         x="141" />
+      <g
+         id="g100"
+         transform="translate(-0.5,-0.5)">
+        <switch
+           id="switch98">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="101%"
+             width="101%"
+             pointer-events="none">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 244px; height: 1px; padding-top: 322px; margin-left: 142px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0px; text-align: center;"
+                 data-drawio-colors="color: #ffffff; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: none; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                Fileman
+                            </xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             id="text96"
+             font-weight="bold"
+             text-anchor="middle"
+             font-size="12px"
+             font-family="Helvetica"
+             fill="#ffffff"
+             y="326"
+             x="264">Fileman</text>
+        </switch>
+      </g>
+      <g
+         id="g106"
+         transform="translate(-0.5,-0.5)">
+        <switch
+           id="switch104">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="101%"
+             width="101%"
+             pointer-events="none">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 128px; height: 1px; padding-top: 271px; margin-left: 1px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0px; text-align: center;"
+                 data-drawio-colors="color: #0066CC; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 35px; font-family: Helvetica; color: rgb(0, 102, 204); line-height: 1.2; pointer-events: none; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                  <xhtml:font
+                     size="1"
+                     style="">
+                    <xhtml:i
+                       style="font-size: 30px;">
+                                        VISTA
+                                    </xhtml:i>
+                  </xhtml:font>
+                </xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             id="text102"
+             font-weight="bold"
+             text-anchor="middle"
+             font-size="35px"
+             font-family="Helvetica"
+             fill="#0066cc"
+             y="282"
+             x="65">VISTA</text>
+        </switch>
+      </g>
+      <rect
+         id="rect108"
+         pointer-events="none"
+         stroke="#e6e6e6"
+         fill="#0066cc"
+         height="31"
+         width="246"
+         y="184.5"
+         x="141" />
+      <g
+         id="g114"
+         transform="translate(-0.5,-0.5)">
+        <switch
+           id="switch112">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="101%"
+             width="101%"
+             pointer-events="none">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 244px; height: 1px; padding-top: 200px; margin-left: 142px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0px; text-align: center;"
+                 data-drawio-colors="color: #ffffff; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: none; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                Kernel
+                            </xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             id="text110"
+             font-weight="bold"
+             text-anchor="middle"
+             font-size="12px"
+             font-family="Helvetica"
+             fill="#ffffff"
+             y="204"
+             x="264">Kernel</text>
+        </switch>
+      </g>
+      <rect
+         id="rect116"
+         pointer-events="none"
+         stroke="#e6e6e6"
+         fill="#0066cc"
+         height="34"
+         width="246.31"
+         y="151"
+         x="140.69" />
+      <g
+         id="g122"
+         transform="translate(-0.5,-0.5)">
+        <switch
+           id="switch120">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="101%"
+             width="101%"
+             pointer-events="none">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 244px; height: 1px; padding-top: 168px; margin-left: 142px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0px; text-align: center;"
+                 data-drawio-colors="color: #ffffff; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: none; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                Interfaces
+                            </xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             id="text118"
+             font-weight="bold"
+             text-anchor="middle"
+             font-size="12px"
+             font-family="Helvetica"
+             fill="#ffffff"
+             y="172"
+             x="264">Interfaces</text>
+        </switch>
+      </g>
+      <g
+         id="g128"
+         transform="translate(-0.5,-0.5)">
+        <switch
+           id="switch126">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="101%"
+             width="101%"
+             pointer-events="none">
+            <xhtml:div
+               style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 346px; height: 1px; padding-top: 201px; margin-left: 433px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0px; text-align: left;"
+                 data-drawio-colors="color: rgb(0, 0, 0); ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                  <xhtml:b
+                     style="font-size: 12px;">
+                    <xhtml:font
+                       color="#0066cc"
+                       style="font-size: 12px;">
+                                        Kernel:
+                                    </xhtml:font>
+                  </xhtml:b>
+                  <xhtml:font
+                     color="#808080">
+                                    manages access (authentication and authorization); manages package distribution,
+                                </xhtml:font>
+                  <xhtml:span
+                     style="color: rgb(128, 128, 128);" />
+                  <xhtml:font
+                     color="#808080">
+                                    tasks, and
+                                </xhtml:font>
+                  <xhtml:span
+                     style="border-color: var(--border-color); color: rgb(128, 128, 128);">
+                                    devices;
+                                </xhtml:span>
+                  <xhtml:font
+                     color="#808080">
+                                    and
+                                </xhtml:font>
+                  <xhtml:span
+                     style="color: rgb(128, 128, 128);">
+                                    provides portability of
+                                    <xhtml:i>
+  <xhtml:font
+     style="font-size: 11px;">
+                                            VISTA
+                                        </xhtml:font>
+</xhtml:i>
+
+                                    to any hardware or operating system.
+                                </xhtml:span>
+                  <xhtml:font
+                     color="#808080">
+                    <xhtml:br />
+                  </xhtml:font>
+                </xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             id="text124"
+             font-size="12px"
+             font-family="Helvetica"
+             fill="#000000"
+             y="213"
+             x="433">Kernel:  manages access (authentication and authorization)...</text>
+        </switch>
+      </g>
+      <g
+         id="g134"
+         transform="translate(-0.5,-0.5)">
+        <switch
+           id="switch132">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="101%"
+             width="101%"
+             pointer-events="none">
+            <xhtml:div
+               style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 320px; height: 1px; padding-top: 144px; margin-left: 433px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0px; text-align: left;"
+                 data-drawio-colors="color: rgb(0, 0, 0); ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                  <xhtml:font
+                     style="">
+                    <xhtml:b
+                       style="font-size: 12px;"><xhtml:font
+   color="#0066cc"
+   style="font-size: 12px;">
+                                            Interfaces
+                                        </xhtml:font>
+
+                                        :
+                                    </xhtml:b>
+                    <xhtml:font
+                       style=""
+                       color="#808080">
+                                        clients (
+                                        <xhtml:font
+   style="">
+  <xhtml:font
+     style="font-size: 11px;">
+                                                RPC
+                                            </xhtml:font>
+  <xhtml:font
+     style="font-size: 12px;">
+                                                ),
+                                            </xhtml:font>
+  <xhtml:font
+     style="font-size: 12px;">
+                                                systems and hardware
+                                            </xhtml:font>
+  <xhtml:font
+     style="">
+                                                (
+                                                <xhtml:font
+   style="font-size: 11px;">
+                                                    HL7
+                                                </xhtml:font>
+
+                                                ),
+                                            </xhtml:font>
+  <xhtml:font
+     style="font-size: 12px;">
+                                                databases
+                                            </xhtml:font>
+  <xhtml:font
+     style="font-size: 12px;">
+                                                (
+                                            </xhtml:font>
+  <xhtml:font
+     style="font-size: 11px;">
+                                                SQL
+                                            </xhtml:font>
+  <xhtml:font
+     style="font-size: 12px;">
+                                                ),
+                                            </xhtml:font>
+  <xhtml:font
+     style="font-size: 12px;">
+                                                languages
+                                            </xhtml:font>
+  <xhtml:font
+     style="font-size: 12px;">
+                                                (
+                                            </xhtml:font>
+  <xhtml:font
+     style="font-size: 11px;">
+                                                Delphi
+                                            </xhtml:font>
+  <xhtml:font
+     style="font-size: 12px;">
+                                                ,
+                                            </xhtml:font>
+  <xhtml:font
+     style="font-size: 11px;">
+                                                Java
+                                            </xhtml:font>
+  <xhtml:font
+     style="font-size: 12px;">
+                                                ,
+                                            </xhtml:font>
+  <xhtml:font
+     style="font-size: 11px;">
+                                                Javascript
+                                            </xhtml:font>
+  <xhtml:font
+     style="font-size: 12px;">
+                                                ),
+                                            </xhtml:font>
+  <xhtml:font
+     style="font-size: 12px;">
+                                                documents
+                                            </xhtml:font>
+  <xhtml:font
+     style="font-size: 12px;">
+                                                (
+                                            </xhtml:font>
+  <xhtml:font
+     style="font-size: 11px;">
+                                                XML
+                                            </xhtml:font>
+  <xhtml:font
+     style="font-size: 12px;">
+                                                ), web
+                                            </xhtml:font>
+</xhtml:font>
+</xhtml:font>
+                  </xhtml:font>
+                  <xhtml:font
+                     color="#808080">
+                    <xhtml:font
+                       style="border-color: var(--border-color);" />
+                    <xhtml:font
+                       style="border-color: var(--border-color);">
+                                        (
+                                    </xhtml:font>
+                    <xhtml:font
+                       style="border-color: var(--border-color); font-size: 11px;">
+                                        REST
+                                    </xhtml:font>
+                    <xhtml:font
+                       style="border-color: var(--border-color);">
+                                        ,
+                                    </xhtml:font>
+                    <xhtml:font
+                       style="border-color: var(--border-color); font-size: 11px;"><xhtml:font
+   style="font-size: 11px;">
+                                            JSON
+                                        </xhtml:font>
+
+                                        )
+                                    </xhtml:font>
+                  </xhtml:font>
+                </xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             id="text130"
+             font-size="12px"
+             font-family="Helvetica"
+             fill="#000000"
+             y="156"
+             x="433">Interfaces:  clients (RPC),  systems and hardware (HL...</text>
+        </switch>
+      </g>
+      <g
+         id="g140"
+         transform="translate(-0.5,-0.5)">
+        <switch
+           id="switch138">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="101%"
+             width="101%"
+             pointer-events="none">
+            <xhtml:div
+               style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 340px; height: 1px; padding-top: 254px; margin-left: 433px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0px; text-align: left;"
+                 data-drawio-colors="color: rgb(0, 0, 0); ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;"><xhtml:b
+   style="font-size: 12px;">
+  <xhtml:font
+     color="#0066cc"
+     style="font-size: 12px;">
+                                        Applications
+                                    </xhtml:font>
+</xhtml:b>
+
+                                :
+                                <xhtml:font
+   color="#808080">
+                                    All applications (over 180) share the same single database. This eliminates data duplication, and assures comprehensive consistency and integration of all data between all applications.
+                                </xhtml:font>
+</xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             id="text136"
+             font-size="12px"
+             font-family="Helvetica"
+             fill="#000000"
+             y="266"
+             x="433">Applications: All applications (over 180) share the same...</text>
+        </switch>
+      </g>
+      <g
+         id="g146"
+         transform="translate(-0.5,-0.5)">
+        <switch
+           id="switch144">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="101%"
+             width="101%"
+             pointer-events="none">
+            <xhtml:div
+               style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 353px; height: 1px; padding-top: 324px; margin-left: 436px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0px; text-align: left;"
+                 data-drawio-colors="color: rgb(0, 0, 0); ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                  <xhtml:b
+                     style="font-size: 12px;">
+                    <xhtml:font
+                       color="#0066cc"
+                       style="font-size: 12px;">
+                                        Fileman
+                                    </xhtml:font>
+                  </xhtml:b>
+                  <xhtml:font
+                     color="#808080">
+                                    is the database management system (DBMS). It is based on a single system-wide data dictionary that describes all data in all applications, assuring comprehensive consistency.
+                                </xhtml:font>
+                </xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             id="text142"
+             font-size="12px"
+             font-family="Helvetica"
+             fill="#000000"
+             y="336"
+             x="436">Fileman  is the database management system (DBMS). It is ba...</text>
+        </switch>
+      </g>
+      <g
+         id="g152"
+         transform="translate(-0.5,-0.5)">
+        <switch
+           id="switch150">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="101%"
+             width="101%"
+             pointer-events="none">
+            <xhtml:div
+               style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 202px; height: 1px; padding-top: 50px; margin-left: 165px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0px; text-align: center;"
+                 data-drawio-colors="color: #999999; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(153, 153, 153); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                  <xhtml:b>
+                    <xhtml:font
+                       color="#808080">
+                                        External Systems,
+                                        <xhtml:br />
+
+                                        Applications, and Hardware
+                                    </xhtml:font>
+                  </xhtml:b>
+                </xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             id="text148"
+             text-anchor="middle"
+             font-size="12px"
+             font-family="Helvetica"
+             fill="#999999"
+             y="62"
+             x="266">External Systems,...</text>
+        </switch>
+      </g>
+      <g
+         id="g158"
+         transform="translate(1.803599,-5.8750644)">
+        <switch
+           id="switch156">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="101%"
+             width="101%"
+             pointer-events="none">
+            <xhtml:div
+               style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 290px; height: 1px; padding-top: 380px; margin-left: 436px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0px; text-align: left;"
+                 data-drawio-colors="color: rgb(0, 0, 0); ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                  <xhtml:b
+                     style="font-size: 12px;">
+                    <xhtml:font
+                       color="#0066cc"
+                       style="font-size: 12px;">
+                                        Database
+                                    </xhtml:font>
+                  </xhtml:b>
+                  <xhtml:font
+                     color="#808080">
+                                    All data is stored in an integrated multidimensional
+                                </xhtml:font>
+                  <xhtml:span
+                     style="color: rgb(128, 128, 128);">
+                                    (NoSQL)
+                                </xhtml:span>
+                  <xhtml:font
+                     color="#808080">
+                                    transactional database.
+                                </xhtml:font>
+                </xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             id="text154"
+             font-size="12px"
+             font-family="Helvetica"
+             fill="#000000"
+             y="392"
+             x="436">Database All data is stored in an integrated mul...</text>
+        </switch>
+      </g>
+      <g
+         id="g164"
+         transform="translate(-0.5,-0.5)">
+        <switch
+           id="switch162">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="101%"
+             width="101%"
+             pointer-events="none">
+            <xhtml:div
+               style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 303px; height: 1px; padding-top: 46px; margin-left: 433px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0px; text-align: left;"
+                 data-drawio-colors="color: #808080; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(128, 128, 128); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;"><xhtml:b>
+                                    External Systems:
+                                </xhtml:b>
+
+                                commercial applications;  web and desktop applications; patient care devices, printers, and all other hardware and systems (1000+)
+                            </xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             id="text160"
+             font-size="12px"
+             font-family="Helvetica"
+             fill="#808080"
+             y="58"
+             x="433">External Systems: commercial applications;  web and...</text>
+        </switch>
+      </g>
+      <g
+         id="g170"
+         transform="translate(-0.5,-0.5)">
+        <switch
+           id="switch168">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="101%"
+             width="101%"
+             pointer-events="none">
+            <xhtml:div
+               style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 303px; height: 1px; padding-top: 13px; margin-left: 436px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0px; text-align: left;"
+                 data-drawio-colors="color: #808080; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(128, 128, 128); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                VHA clinical and administrative staff
+                            </xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             id="text166"
+             font-size="12px"
+             font-family="Helvetica"
+             fill="#808080"
+             y="25"
+             x="436">VHA clinical and administrative staff</text>
+        </switch>
+      </g>
+      <path
+         id="path172"
+         pointer-events="none"
+         stroke="none"
+         fill="#b3b3b3"
+         d="m 263.04,26.1 c -0.42,-0.04 -0.81,-0.24 -1.07,-0.55 -0.27,-0.32 -0.39,-0.73 -0.35,-1.13 V 5.47 c 0.07,-0.79 0.68,-1.42 1.48,-1.53 h 27.91 c 0.92,-0.04 1.71,0.63 1.79,1.53 l -0.03,19.25 c -0.19,0.82 -0.91,1.41 -1.76,1.44 h -9.78 l -0.44,1.74 c -0.11,0.41 -0.04,0.83 0.19,1.18 0.22,0.35 0.58,0.6 1,0.69 0.95,0.31 1.95,0.45 2.95,0.4 h 1.82 V 32 h -20.36 v -1.83 h 2.17 c 1.13,0 2.25,-0.18 3.32,-0.55 0.84,-0.2 1.36,-1.02 1.16,-1.84 l -0.28,-1.62 z m 0.9,-2.2 h 26.44 V 6.29 h -26.44 z" />
+      <path
+         id="path174"
+         pointer-events="none"
+         stroke-miterlimit="10"
+         stroke-width="2"
+         stroke="#b3b3b3"
+         fill="#ffffff"
+         d="m 238.19,30 c 0,-11.6 0,-17.4 10,-17.4 -6.67,0 -6.67,-11.6 0,-11.6 6.67,0 6.67,11.6 0,11.6 10,0 10,5.8 10,17.4 z" />
+      <path
+         id="path176"
+         pointer-events="none"
+         transform="rotate(90,265.5,126.37)"
+         stroke="none"
+         fill="#0066cc"
+         d="m 249.12,119.35 h 12.45 v -5.98 l 20.3,13 -20.3,13 v -5.98 h -12.45 v -7.02 z" />
+      <g
+         id="g182"
+         transform="translate(-0.5,-0.5)">
+        <switch
+           id="switch180">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="101%"
+             width="101%"
+             pointer-events="none">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 204px; height: 1px; padding-top: 426px; margin-left: 166px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0px; text-align: center;"
+                 data-drawio-colors="color: #0066CC; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(0, 102, 204); line-height: 1.2; pointer-events: none; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                M technology
+                            </xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             id="text178"
+             font-weight="bold"
+             text-anchor="middle"
+             font-size="16px"
+             font-family="Helvetica"
+             fill="#0066cc"
+             y="431"
+             x="268">M technology</text>
+        </switch>
+      </g>
+      <rect
+         id="rect184"
+         pointer-events="none"
+         stroke="none"
+         fill="#0066cc"
+         height="15.5"
+         width="124"
+         y="253.5"
+         x="208" />
+      <g
+         id="g190"
+         transform="translate(-0.5,-0.5)">
+        <switch
+           id="switch188">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="101%"
+             width="101%"
+             pointer-events="none">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 122px; height: 1px; padding-top: 261px; margin-left: 209px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0px; text-align: center;"
+                 data-drawio-colors="color: #ffffff; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: none; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                Applications (180+)
+                            </xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             id="text186"
+             font-weight="bold"
+             text-anchor="middle"
+             font-size="12px"
+             font-family="Helvetica"
+             fill="#ffffff"
+             y="265"
+             x="270">Applications (180+)</text>
+        </switch>
+      </g>
+      <path
+         id="path192"
+         pointer-events="none"
+         transform="matrix(0,-1,-1,0,367.37,367.37)"
+         stroke="none"
+         fill="#0066cc"
+         d="m 249.12,94.85 h 12.45 v -5.98 l 20.3,13 -20.3,13 v -5.98 h -12.45 v -7.02 z" />
+      <g
+         inkscape:corner7="0.18358651 : -0.061231829 : 0.25 : 1"
+         inkscape:corner0="0.63786732 : 0.0038099297 : 0 : 1"
+         inkscape:perspectiveID="#perspective1140"
+         style="fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         id="g1156"
+         sodipodi:type="inkscape:box3d">
+        <path
+           points="328.48944,-152.20845 328.48944,-78.254895 261.99383,-108.56898 261.99383,-164.72697 "
+           d="m 261.99383,-164.72697 66.49561,12.51852 v 73.953555 l -66.49561,-30.314085 z"
+           inkscape:box3dsidetype="11"
+           style="fill:#e9e9ff;fill-rule:evenodd;stroke:none;stroke-width:0.536061;stroke-linejoin:round"
+           id="path1168"
+           sodipodi:type="inkscape:box3dside" />
+        <path
+           points="213.59755,-94.031255 261.99383,-108.56898 261.99383,-164.72697 213.59755,-158.76105 "
+           d="m 213.59755,-158.76105 v 64.729795 l 48.39628,-14.537725 v -56.15799 z"
+           inkscape:box3dsidetype="6"
+           style="fill:#353564;fill-rule:evenodd;stroke:none;stroke-width:0.536061;stroke-linejoin:round"
+           id="path1158"
+           sodipodi:type="inkscape:box3dside" />
+        <path
+           points="275.56319,-51.734324 328.48944,-78.254895 261.99383,-108.56898 213.59755,-94.031255 "
+           d="m 213.59755,-94.031255 61.96564,42.296931 52.92625,-26.520571 -66.49561,-30.314085 z"
+           inkscape:box3dsidetype="13"
+           style="fill:#afafde;fill-rule:evenodd;stroke:none;stroke-width:0.536061;stroke-linejoin:round"
+           id="path1166"
+           sodipodi:type="inkscape:box3dside" />
+        <path
+           points="275.56319,-141.30853 328.48944,-152.20845 261.99383,-164.72697 213.59755,-158.76105 "
+           d="m 213.59755,-158.76105 61.96564,17.45252 52.92625,-10.89992 -66.49561,-12.51852 z"
+           inkscape:box3dsidetype="5"
+           style="fill:#4d4d9f;fill-rule:evenodd;stroke:none;stroke-width:0.536061;stroke-linejoin:round"
+           id="path1160"
+           sodipodi:type="inkscape:box3dside" />
+        <path
+           points="275.56319,-51.734324 328.48944,-78.254895 328.48944,-152.20845 275.56319,-141.30853 "
+           d="m 275.56319,-141.30853 v 89.574206 l 52.92625,-26.520571 v -73.953555 z"
+           inkscape:box3dsidetype="14"
+           style="fill:#d7d7ff;fill-rule:evenodd;stroke:none;stroke-width:0.536061;stroke-linejoin:round"
+           id="path1164"
+           sodipodi:type="inkscape:box3dside" />
+        <path
+           points="275.56319,-141.30853 275.56319,-51.734324 213.59755,-94.031255 213.59755,-158.76105 "
+           d="m 213.59755,-158.76105 61.96564,17.45252 v 89.574206 l -61.96564,-42.296931 z"
+           inkscape:box3dsidetype="3"
+           style="fill:#8686bf;fill-rule:evenodd;stroke:none;stroke-width:0.536061;stroke-linejoin:round"
+           id="path1162"
+           sodipodi:type="inkscape:box3dside" />
+      </g>
+    </g>
+    <switch
+       transform="matrix(0.26458333,0,0,0.26458333,1.6735334,54.468437)"
+       id="switch202">
+      <g
+         id="g196"
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" />
+      <a
+         id="a200"
+         target="_blank"
+         xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems"
+         transform="translate(0,-5)">
+        <text
+           id="text198"
+           y="100%"
+           x="50%"
+           font-size="10px"
+           text-anchor="middle">Text is not SVG - cannot display</text>
+      </a>
+    </switch>
+  </g>
+</svg>
