@@ -1,8 +1,0 @@
-== drawio - svg example
-image::vista.drawio.svg[vista,600,600]
-
-
-## reference
-https://www.hardhats.org  
-
-image::https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg[Tux,20,20]
